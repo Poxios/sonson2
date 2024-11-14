@@ -1,2 +1,5 @@
 class son:
-  pass
+  
+
+
+print("")
