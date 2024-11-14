@@ -1,0 +1,2 @@
+class son:
+  pass
